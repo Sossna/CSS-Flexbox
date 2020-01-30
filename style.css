@@ -16,7 +16,7 @@ body{
 .flex-container{ 
     background: white;
     display: flex; 
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
 
 .box{
