@@ -16,18 +16,18 @@ body{
 .flex-container{ 
     background: white;
     display: flex; 
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
 }
 
 .box{
     height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
+    flex-basis: 200px;
     
 }
 
 .one{
     background: red;
+    
     
 }
 
